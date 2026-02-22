@@ -1,0 +1,8 @@
+node_modules/
+dist/
+bin/
+resources/
+neutralino.config.json
+package.json
+package-lock.json
+build.bat
