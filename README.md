@@ -89,9 +89,6 @@ When the target folder contains a simple (non-slotted) texture like `Road_1_new2
 - Redrock presets: Road, Rocks, Grass, Grass Close
 - Springstone presets: Road, Grass, Sand
 - Shadow Valley presets: Grass, Road
-- Fixed: all output textures are now forced to PNG — existing `.jpg` slot files are replaced with `.png` and the old `.jpg` is removed
-- Fixed: `_Displacement` correctly maps to the `_height` slot (`_Bump` removed to avoid incorrect matching)
-- Fixed: when **Create as 3D Texture** is ON, the original simple texture file is deleted so the game loads `_base` correctly
 
 ### v1.0
 - Initial release
