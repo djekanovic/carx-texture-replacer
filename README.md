@@ -1,6 +1,6 @@
 # Scorpio CarX Texture Replacer
 
-A Windows desktop app for automating texture replacement in **CarX Drift Racing Online** mod texture packs. Built by Scorpio from the SLICK team.
+A Windows desktop app for automating texture replacement in **CarX Drift Racing Online** mod texture packs.
 
 ![App Screenshot](app.png)
 
