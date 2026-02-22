@@ -2,6 +2,8 @@
 
 A Windows desktop app for automating texture replacement in **CarX Drift Racing Online** mod texture packs. Built by Scorpio from the SLICK team.
 
+> **This app is built primarily for use with [TexLoader CXFR](https://github.com/Silv3r25/TexLoader-CXFR/releases/tag/v2.2.2)** — a CarX mod that enables custom texture loading. You need TexLoader CXFR installed and set up before your replaced textures will appear in-game.
+
 ---
 
 ## Download
